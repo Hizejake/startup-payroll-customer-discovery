@@ -1,0 +1,2 @@
+interview_id,date,role,company_size_band,sector,city,payroll_method,payroll_tool,ca_involved,hours_per_month,errors_last_6_months,penalty_or_notice,pain_score_1to5,top_pain,switching_trigger,decision_maker,h1_evidence,h2_evidence,h3_evidence,h4_evidence,h5_evidence,h6_evidence,follow_up
+EXAMPLE,2000-01-01,founder,10-24,EXAMPLE sector,EXAMPLE city,mixed,none,yes,0,0,none,1,EXAMPLE row - not real data - delete before use,none,founder,unclear,unclear,unclear,unclear,unclear,unclear,EXAMPLE row - delete before use
